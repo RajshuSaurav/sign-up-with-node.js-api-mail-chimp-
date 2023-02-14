@@ -45,5 +45,3 @@ app.post("/",function(req,res){
 app.listen(3500,function(){
     console.log("server port is 3500");
 })
-// api-5252f4f3c2cf409969549ebddf7b03ef-us13
-// id-7059afc914
